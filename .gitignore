@@ -1,0 +1,5 @@
+mvc/mvc/Constants+Private.swift
+mvc/*.xcodeproj/
+!mvc/*.xcodeproj/project.pbxproj
+!mvc/*.xcodeproj/xcshareddata/
+!mvc/*.xcworkspace/xcshareddata/
